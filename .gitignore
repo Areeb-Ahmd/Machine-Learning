@@ -2,6 +2,6 @@
 .env
 .env.local
 .env.*.local
-venv/
+venv/``
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
